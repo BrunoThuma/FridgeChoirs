@@ -1,0 +1,6 @@
+framework module Pods_FridgeChoirs_FridgeChoirsUITests {
+  umbrella header "Pods-FridgeChoirs-FridgeChoirsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

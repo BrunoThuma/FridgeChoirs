@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  FridgeChoirs
-//
-//  Created by Bruno Thuma on 19/02/22.
-//
-
 import SwiftUI
 import CoreData
 

@@ -16,6 +16,12 @@
 		5E8E63C127C1D64D003EA70C /* FridgeChoirsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8E63C027C1D64D003EA70C /* FridgeChoirsTests.swift */; };
 		5E8E63CB27C1D64E003EA70C /* FridgeChoirsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8E63CA27C1D64E003EA70C /* FridgeChoirsUITests.swift */; };
 		5E8E63CD27C1D64E003EA70C /* FridgeChoirsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8E63CC27C1D64E003EA70C /* FridgeChoirsUITestsLaunchTests.swift */; };
+		5E8E63DA27C1E3C5003EA70C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5E8E63D927C1E3C5003EA70C /* GoogleService-Info.plist */; };
+		5E8E63DB27C1E3C5003EA70C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5E8E63D927C1E3C5003EA70C /* GoogleService-Info.plist */; };
+		5E8E63DC27C1E3C5003EA70C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5E8E63D927C1E3C5003EA70C /* GoogleService-Info.plist */; };
+		7E863E2F1EFA29D980B2B201 /* Pods_FridgeChoirs_FridgeChoirsUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93B2289ABA4D71D8C969DE11 /* Pods_FridgeChoirs_FridgeChoirsUITests.framework */; };
+		A3CBACF5BD0C3AF3110F663E /* Pods_FridgeChoirsTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B6A3AF183539CB661BF2ADD4 /* Pods_FridgeChoirsTests.framework */; };
+		F8643474E1C7E39E95594AE2 /* Pods_FridgeChoirs.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA200939B465985D6C07F4E8 /* Pods_FridgeChoirs.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +54,16 @@
 		5E8E63C627C1D64D003EA70C /* FridgeChoirsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FridgeChoirsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E8E63CA27C1D64E003EA70C /* FridgeChoirsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FridgeChoirsUITests.swift; sourceTree = "<group>"; };
 		5E8E63CC27C1D64E003EA70C /* FridgeChoirsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FridgeChoirsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5E8E63D927C1E3C5003EA70C /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		65D64016E3BB5722FC0CDE04 /* Pods-FridgeChoirs.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FridgeChoirs.release.xcconfig"; path = "Target Support Files/Pods-FridgeChoirs/Pods-FridgeChoirs.release.xcconfig"; sourceTree = "<group>"; };
+		67777FD22B07CD8B4094CC51 /* Pods-FridgeChoirs-FridgeChoirsUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FridgeChoirs-FridgeChoirsUITests.release.xcconfig"; path = "Target Support Files/Pods-FridgeChoirs-FridgeChoirsUITests/Pods-FridgeChoirs-FridgeChoirsUITests.release.xcconfig"; sourceTree = "<group>"; };
+		68D3491A3E602322D633E8B9 /* Pods-FridgeChoirsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FridgeChoirsTests.release.xcconfig"; path = "Target Support Files/Pods-FridgeChoirsTests/Pods-FridgeChoirsTests.release.xcconfig"; sourceTree = "<group>"; };
+		6DC6985DC67F39248FED28E0 /* Pods-FridgeChoirs.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FridgeChoirs.debug.xcconfig"; path = "Target Support Files/Pods-FridgeChoirs/Pods-FridgeChoirs.debug.xcconfig"; sourceTree = "<group>"; };
+		93B2289ABA4D71D8C969DE11 /* Pods_FridgeChoirs_FridgeChoirsUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FridgeChoirs_FridgeChoirsUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B6A3AF183539CB661BF2ADD4 /* Pods_FridgeChoirsTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FridgeChoirsTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA200939B465985D6C07F4E8 /* Pods_FridgeChoirs.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FridgeChoirs.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		DAD1F5809A257FFD1E3AD7CA /* Pods-FridgeChoirs-FridgeChoirsUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FridgeChoirs-FridgeChoirsUITests.debug.xcconfig"; path = "Target Support Files/Pods-FridgeChoirs-FridgeChoirsUITests/Pods-FridgeChoirs-FridgeChoirsUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		F447C029452EA1390DF67A77 /* Pods-FridgeChoirsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FridgeChoirsTests.debug.xcconfig"; path = "Target Support Files/Pods-FridgeChoirsTests/Pods-FridgeChoirsTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +71,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8643474E1C7E39E95594AE2 /* Pods_FridgeChoirs.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -62,6 +79,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A3CBACF5BD0C3AF3110F663E /* Pods_FridgeChoirsTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -69,6 +87,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E863E2F1EFA29D980B2B201 /* Pods_FridgeChoirs_FridgeChoirsUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,10 +97,13 @@
 		5E8E639E27C1D64C003EA70C = {
 			isa = PBXGroup;
 			children = (
+				5E8E63D927C1E3C5003EA70C /* GoogleService-Info.plist */,
 				5E8E63A927C1D64C003EA70C /* FridgeChoirs */,
 				5E8E63BF27C1D64D003EA70C /* FridgeChoirsTests */,
 				5E8E63C927C1D64E003EA70C /* FridgeChoirsUITests */,
 				5E8E63A827C1D64C003EA70C /* Products */,
+				6AD395BE853BFE470C55990A /* Pods */,
+				F7018A1D0E050FD79B0983E6 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -133,6 +155,29 @@
 			path = FridgeChoirsUITests;
 			sourceTree = "<group>";
 		};
+		6AD395BE853BFE470C55990A /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6DC6985DC67F39248FED28E0 /* Pods-FridgeChoirs.debug.xcconfig */,
+				65D64016E3BB5722FC0CDE04 /* Pods-FridgeChoirs.release.xcconfig */,
+				DAD1F5809A257FFD1E3AD7CA /* Pods-FridgeChoirs-FridgeChoirsUITests.debug.xcconfig */,
+				67777FD22B07CD8B4094CC51 /* Pods-FridgeChoirs-FridgeChoirsUITests.release.xcconfig */,
+				F447C029452EA1390DF67A77 /* Pods-FridgeChoirsTests.debug.xcconfig */,
+				68D3491A3E602322D633E8B9 /* Pods-FridgeChoirsTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		F7018A1D0E050FD79B0983E6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DA200939B465985D6C07F4E8 /* Pods_FridgeChoirs.framework */,
+				93B2289ABA4D71D8C969DE11 /* Pods_FridgeChoirs_FridgeChoirsUITests.framework */,
+				B6A3AF183539CB661BF2ADD4 /* Pods_FridgeChoirsTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -140,9 +185,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5E8E63D027C1D64E003EA70C /* Build configuration list for PBXNativeTarget "FridgeChoirs" */;
 			buildPhases = (
+				6B658E44ADA28C6F4DA6F58A /* [CP] Check Pods Manifest.lock */,
 				5E8E63A327C1D64C003EA70C /* Sources */,
 				5E8E63A427C1D64C003EA70C /* Frameworks */,
 				5E8E63A527C1D64C003EA70C /* Resources */,
+				93314BD133ABDF2D21EB7DE6 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -157,6 +204,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5E8E63D327C1D64E003EA70C /* Build configuration list for PBXNativeTarget "FridgeChoirsTests" */;
 			buildPhases = (
+				157DDAB346716DEA532E01B5 /* [CP] Check Pods Manifest.lock */,
 				5E8E63B827C1D64D003EA70C /* Sources */,
 				5E8E63B927C1D64D003EA70C /* Frameworks */,
 				5E8E63BA27C1D64D003EA70C /* Resources */,
@@ -175,9 +223,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5E8E63D627C1D64E003EA70C /* Build configuration list for PBXNativeTarget "FridgeChoirsUITests" */;
 			buildPhases = (
+				1AECDB460C60EDCBC6F17896 /* [CP] Check Pods Manifest.lock */,
 				5E8E63C227C1D64D003EA70C /* Sources */,
 				5E8E63C327C1D64D003EA70C /* Frameworks */,
 				5E8E63C427C1D64D003EA70C /* Resources */,
+				805CED9496FC3DA0B18E5B22 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -239,6 +289,7 @@
 			files = (
 				5E8E63B227C1D64D003EA70C /* Preview Assets.xcassets in Resources */,
 				5E8E63AF27C1D64D003EA70C /* Assets.xcassets in Resources */,
+				5E8E63DA27C1E3C5003EA70C /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +297,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E8E63DB27C1E3C5003EA70C /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -253,10 +305,114 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E8E63DC27C1E3C5003EA70C /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		157DDAB346716DEA532E01B5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FridgeChoirsTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1AECDB460C60EDCBC6F17896 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FridgeChoirs-FridgeChoirsUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6B658E44ADA28C6F4DA6F58A /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-FridgeChoirs-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		805CED9496FC3DA0B18E5B22 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-FridgeChoirs-FridgeChoirsUITests/Pods-FridgeChoirs-FridgeChoirsUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-FridgeChoirs-FridgeChoirsUITests/Pods-FridgeChoirs-FridgeChoirsUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FridgeChoirs-FridgeChoirsUITests/Pods-FridgeChoirs-FridgeChoirsUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		93314BD133ABDF2D21EB7DE6 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-FridgeChoirs/Pods-FridgeChoirs-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-FridgeChoirs/Pods-FridgeChoirs-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-FridgeChoirs/Pods-FridgeChoirs-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		5E8E63A327C1D64C003EA70C /* Sources */ = {
@@ -421,13 +577,14 @@
 		};
 		5E8E63D127C1D64E003EA70C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6DC6985DC67F39248FED28E0 /* Pods-FridgeChoirs.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"FridgeChoirs/Preview Content\"";
-				DEVELOPMENT_TEAM = L8SVDJPB96;
+				DEVELOPMENT_TEAM = UY7S7HWX9K;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -450,13 +607,14 @@
 		};
 		5E8E63D227C1D64E003EA70C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 65D64016E3BB5722FC0CDE04 /* Pods-FridgeChoirs.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"FridgeChoirs/Preview Content\"";
-				DEVELOPMENT_TEAM = L8SVDJPB96;
+				DEVELOPMENT_TEAM = UY7S7HWX9K;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -479,6 +637,7 @@
 		};
 		5E8E63D427C1D64E003EA70C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F447C029452EA1390DF67A77 /* Pods-FridgeChoirsTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -499,6 +658,7 @@
 		};
 		5E8E63D527C1D64E003EA70C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 68D3491A3E602322D633E8B9 /* Pods-FridgeChoirsTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -519,6 +679,7 @@
 		};
 		5E8E63D727C1D64E003EA70C /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DAD1F5809A257FFD1E3AD7CA /* Pods-FridgeChoirs-FridgeChoirsUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -537,6 +698,7 @@
 		};
 		5E8E63D827C1D64E003EA70C /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 67777FD22B07CD8B4094CC51 /* Pods-FridgeChoirs-FridgeChoirsUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
